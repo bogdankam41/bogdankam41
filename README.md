@@ -15,5 +15,5 @@ Ansible · Docker · Prometheus / Grafana · TeamCity, GitHub Actions
 ### Что посмотреть здесь
 | Репозиторий | О чём |
 |---|---|
-| [shop-gitops](…) | GitOps-доставка в k3s: Argo CD, подпись образов cosign, Kyverno verifyImages, PSA restricted, default-deny NetworkPolicy |
-| [proxmox](…) | Two-site homelab как IaC: Terraform-модули + Ansible-роли, k3s-кластер, мониторинг, IPSec между площадками |
+| [shop-gitops](https://github.com/bogdankam41/shop-gitops) | GitOps-доставка в k3s: Argo CD, подпись образов cosign, Kyverno verifyImages, PSA restricted, default-deny NetworkPolicy |
+| [proxmox](https://github.com/bogdankam41/proxmox-homelab-iac) | Two-site homelab как IaC: Terraform-модули + Ansible-роли, k3s-кластер, мониторинг, IPSec между площадками |
